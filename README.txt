@@ -7,7 +7,6 @@ packages, and the complete Unity project are not included.
 ## Play the Game
 
 [Download Runebound Depths on itch.io](https://ryder52153.itch.io/runebound-depths)
-Password : runeboundDepths
 
 ## Technical Highlights
 
