@@ -1,0 +1,1 @@
+This repository contains selected source code from Runebound Depths for portfolio and code-review purposes. Commercial art, audio, third-party packages, and the complete Unity project are not included.
