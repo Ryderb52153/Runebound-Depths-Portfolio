@@ -19,19 +19,19 @@ packages, and the complete Unity project are not included.
 
 ## Featured Code
 
-### State Machine(Source/State_Machine)
+### [State Machine](Source/State_Machine)
 Reusable state architecture supporting player movement, combat, abilities,
 enemy behavior, boss states, status effects, and death states.
 
-### Object Pooling
+### [Object Pooling](Source/Pooling System)
 Reusable pooling system built around Unity's ObjectPool<T> for enemies,
 projectiles, pickups, VFX, and other frequently spawned objects.
 
-### Skill System
+### [Skill System](Source/Skill System)
 Extensible skill framework supporting cooldowns, upgrades, damage scaling,
 events, and ScriptableObject-driven configuration.
 
-### Stat System
+### [Stat System](Source/Stat System)
 Character-stat architecture supporting base values, modifiers, modifier
 sources, and recalculation of derived values.
 
